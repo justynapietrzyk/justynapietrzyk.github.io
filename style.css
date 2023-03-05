@@ -1,0 +1,39 @@
+/* komentarz */
+body
+{
+	background-image: url("https://img.freepik.com/free-vector/hand-painted-watercolor-pastel-sky-background_23-2148902771.jpg");
+	background-size: cover;
+}
+
+h2, p
+{
+	color: #AA4139;
+	text-align: center;
+	border: 5px solid rgba(255,176,170,0.5);
+	cursor: pointer;
+	font-family: "Smokum";
+}
+li 
+{
+	list-style: none;
+	display: inline-block;
+}
+#dywizja
+{
+	color: white;
+	font-family: "Smokum";
+}
+.lorem1
+{
+	border: 2px dashed blue;
+	color: white;
+	font-family: 'Smokum';
+}
+.lorem2
+{
+	border: 2px dashed red;
+}
+
+* {
+	text-align: right;
+}
